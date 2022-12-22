@@ -1,0 +1,31 @@
+.titleMyName{
+    font-size: 21px;
+    color: rgb(168, 168, 171, 60);
+}
+.title{
+    margin-top: 5px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: normal;
+    color: white;
+}
+.title mark{
+    color: rgb(43,125,237);
+    background: none;
+}
+.description{
+    width: 550px;
+    font-size: 15px;
+    font-weight: 200;
+}
+.contactMe{
+    font-weight: 700;
+    margin-top: 3em;
+    background-color: rgb(43,125,237);
+    border: none;
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+    color: white;
+    border-radius: 0.3em;
+}
